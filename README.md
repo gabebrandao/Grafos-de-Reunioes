@@ -1,5 +1,5 @@
-# Grafos-de-Reunioes
-#Este código tem o objetivo de criar um grafo a partir de uma tabela de reuniões, onde a primeira coluna é o tipo da reunião e a segunda são os participantes da reunião.
+Grafos-de-Reunioes
+Este código tem o objetivo de criar um grafo a partir de uma tabela de reuniões, onde a primeira coluna é o tipo da reunião e a segunda são os participantes da reunião.
 
 import pandas #Biblioteca de dados 
 import networkx as nx  #Biblioteca de Grafos
